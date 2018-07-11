@@ -49,22 +49,24 @@ a {
     color: #5bc0de;
 }
 
-a:hover {
+/*a:hover {
     color: #483D8B;
     background-color: #e3e4fa;
     text-decoration: none;
 }
+*/
 
 a img {
     border: solid 2px white;
 }
 
-a:hover img {
+/*a:hover img {
     color: #483D8B;
     background-color: #e3e4fa;
     text-decoration: none;
     border: solid 2px #e3e4fa;
 }
+*/
 
 p.center {
     text-align: center;
