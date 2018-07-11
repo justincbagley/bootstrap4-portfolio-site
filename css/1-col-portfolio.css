@@ -40,11 +40,13 @@ code {
 }
 
 a code {
-    color: #6A5ACD;
+/*    color: #6A5ACD; */
+    color: #5bc0de;
 }
 
 a {
-    color: #6A5ACD;
+/*    color: #6A5ACD; */
+    color: #5bc0de;
 }
 
 a:hover {
