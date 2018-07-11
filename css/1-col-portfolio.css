@@ -8,7 +8,9 @@ body {
   padding-top: 54px;
 }
 
-@media (min-width: 992px) {
+/*@media (min-width: 992px) { 
+ */
+@media (min-width: 500px) {
   body {
     padding-top: 56px;
   }
@@ -18,6 +20,16 @@ body {
   margin-bottom: 15px;
 }
 
+/* Custom containers */
 .container {
     max-width: 700px;
 }
+
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+
