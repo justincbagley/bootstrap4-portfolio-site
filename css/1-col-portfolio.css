@@ -10,7 +10,7 @@ body {
 
 /*@media (min-width: 992px) { 
  */
-@media (min-width: 500px) {
+@media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
@@ -21,9 +21,10 @@ body {
 }
 
 /* Custom containers */
-.container {
+/*.container {
     max-width: 100%;
 }
+*/
 
 .container-narrow {
   margin: 0 auto;
