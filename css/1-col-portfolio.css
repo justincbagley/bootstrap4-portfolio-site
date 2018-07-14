@@ -99,3 +99,7 @@ td.right {
 h1, h2, h3, h4 {
     color: #483D8B;
 }
+
+.bg-darkslateblue {
+    background-color: #483D8B;
+}
